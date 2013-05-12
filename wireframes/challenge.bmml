@@ -64,7 +64,7 @@
         <text>v%20Section%202%0A%20%3E%20Learn%0A%20%3E%20Learn%0A%20%3E%20Challenge%0Av%20Section%202%0A%20%3E%20Learn%0A%20%3E%20Learn%0A%20%3E%20Challenge%0Av%20Section%203%0A%20%3E%20Learn%0A%20%3E%20Learn%0A%20%3E%20Challenge</text>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::PointyButton" x="915" y="393" w="-1" h="-1" measuredW="94" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::PointyButton" x="942" y="516" w="-1" h="-1" measuredW="94" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
         <text>You%20are%20here</text>

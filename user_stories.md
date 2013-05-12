@@ -77,6 +77,27 @@
   - I should be able to select a profile image
   - I should be able to select my locale
   - I should be able to enter a description of myself
+- As a user, I want to create new courses so I can share my expertise
+  - I should see a button that begins the creation process
+  - I should see a form that allows me to enter basic information about the course
+  - I am required to enter a name
+  - I am required to enter a category
+  - I am required to enter a short summary
+- As a user, I want to add content for courses I create so I can make my courses compelling
+  - I should see a page that lists all the courses I've created
+  - I should see a page that shows a course I've created
+  - I should see a form that allow me to add lessons to the course
+  - I should see a form that allows me to add challenges to the course
+  - I should see a form that allows me to add icons, tags, and other decorations to the course
+- As a user, I want to share courses I create so others can experience my course
+  - I should see a button that posts my course to the site
+  - I should see my new course in the listing of all courses
+  - I should see a link to share the new course via social media
+  - I should have information about my course appear in my social media feeds
+- As a user, I want to manage courses I've created
+  - I should see a link to edit posts I've created
+  - I should see a form that allows me to add, change, or remove content from the course
+  - I should see a link to request a course be taken off the site
 - As an experienced user, I want to review courses I've already done so I can retain the knowledge I've gained in the course
   - I should see a my courses link on the main page
   - I should see a my courses link on the nav bar
