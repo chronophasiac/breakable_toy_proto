@@ -1,131 +1,131 @@
 
 - As a visitor, I want to understand what the site is offering so I can quickly orient myself
-    - I should see a tagline on the main page
-    - I should see a brief summary on the main page
+  - I should see a tagline on the main page
+  - I should see a brief summary on the main page
 - As a visitor, I want to sign up so I can save my progress and receive updates
-    - I should see a sign up link on the index
-    - I should see a form that allows me to sign up
-    - I should be required to provide a unique user name or email
-    - I should be required to provide a strong password
-    - I should be required to confirm my password
-    - I should be signed in after completing the form
-    - I should see a sign up link after I do challenges
+  - I should see a sign up link on the index
+  - I should see a form that allows me to sign up
+  - I should be required to provide a unique user name or email
+  - I should be required to provide a strong password
+  - I should be required to confirm my password
+  - I should be signed in after completing the form
+  - I should see a sign up link after I do challenges
 - As a user, I want to log in so I can resume where I left off
-    - I should see a log in link on the main page
-    - I should see a log in link on the nav bar
-    - I should see a form that allows me to log in
-    - I should be required to enter my email address or username
-    - I should be required to enter a password
-    - I should be given the option of remembering my login state
-    - I should see my login state in the nav bar
-    - I shouldn't see the login link on the main page or nav bar
+  - I should see a log in link on the main page
+  - I should see a log in link on the nav bar
+  - I should see a form that allows me to log in
+  - I should be required to enter my email address or username
+  - I should be required to enter a password
+  - I should be given the option of remembering my login state
+  - I should see my login state in the nav bar
+  - I shouldn't see the login link on the main page or nav bar
 - As a user, I want to log out so I don't accidentally share my account
-    - I should see a log out link on the nav bar
-    - I should see a message indicating I've been logged out
-    - I should see links to log in on the nav bar and main page
+  - I should see a log out link on the nav bar
+  - I should see a message indicating I've been logged out
+  - I should see links to log in on the nav bar and main page
 - As a user, I want to see categories of available courses so I can choose learning material that I'm interested in
-    - I should see categories of available material
-    - I should see a list of courses that corresponds to the category
+  - I should see categories of available material
+  - I should see a list of courses that corresponds to the category
 - As a user, I want to choose courses that are appropriate to my skill level so I can learn most effectively
-    - I should see recommended prerequisites for each category
-    - I should see recommended prerequisites for each course
+  - I should see recommended prerequisites for each category
+  - I should see recommended prerequisites for each course
 - As a user, I want to see lists of books, videos, and other reference material when I select a course so I can start learning the course material
-    - I should see links to books, etc
-    - I should see instructions about what to do when I follow the link
+  - I should see links to books, etc
+  - I should see instructions about what to do when I follow the link
 - As a user, I want to do challenges so I can test my knowledge of the material
-    - I should see a button that begins the challenges
-    - I should see a challenge
-    - I should see instructions on how to complete the challenge
+  - I should see a button that begins the challenges
+  - I should see a challenge
+  - I should see instructions on how to complete the challenge
 - As a user, I want to provide answers to the challenges so I can verify if I know the answer to the challenge
-    - I should be able to interact with the challenge to enter an answer
-    - I should be able to submit my answer
-    - I should be rewarded if I provide a correct answer
-    - I shouldn't be rewarded if I provide an incorrect answer
-    - I should see a button that proceeds to the next challenge
+  - I should be able to interact with the challenge to enter an answer
+  - I should be able to submit my answer
+  - I should be rewarded if I provide a correct answer
+  - I shouldn't be rewarded if I provide an incorrect answer
+  - I should see a button that proceeds to the next challenge
 - As a user, I want to see a series of challenges so I'm tested in all the material
-    - I should see a new challenge
-    - I should see a reference to what material teaches the challenge subject
+  - I should see a new challenge
+  - I should see a reference to what material teaches the challenge subject
 - As a user, I want to see different challenges so I don't get bored
-    - I should see a different challenge than any challenge I've seen in the last 15 minutes
+  - I should see a different challenge than any challenge I've seen in the last 15 minutes
 - As a user, I want to see more challenges that are related to concepts or field that I'm having difficulty in so I can learn all concepts in the course
-    - I should see a challenge that tests the same concept as a previous challenge that I've failed
-    - I shouldn't see a challenge that tests concepts that I've succeeded on
+  - I should see a challenge that tests the same concept as a previous challenge that I've failed
+  - I shouldn't see a challenge that tests concepts that I've succeeded on
 - As a user, I want feedback on how I'm doing so I can determine how much more I should study
-    - I should see a message that informs me if I've been rewarded or penalized
-    - I should see a running tally of my score in the course
+  - I should see a message that informs me if I've been rewarded or penalized
+  - I should see a running tally of my score in the course
 - As a user, I want to know when the course is over so I can choose to continue to another course or leave the session
-    - I should see a message that the course is over
-    - I should see my score for the course
-    - I should have the option to repeat the course
-    - I should have the option to go to the next course
-    - I should have the option to exit to the main page
+  - I should see a message that the course is over
+  - I should see my score for the course
+  - I should have the option to repeat the course
+  - I should have the option to go to the next course
+  - I should have the option to exit to the main page
 - As a user, I want to see recommendations about next steps after I've finished a course so I can enrich myself
-    - I should see links to further material that pertains to the course
-    - I should see material that is relevant to the material I've struggled with in the course
-    - I should see suggestions about when to revisit the course
+  - I should see links to further material that pertains to the course
+  - I should see material that is relevant to the material I've struggled with in the course
+  - I should see suggestions about when to revisit the course
 - As a user, I want to view my profile so I can get info on my progress
-    - I should see a profile link on the main page
-    - I should see a profile link on the nav bar
-    - I should see a list of completed courses sorted by most recent
-    - I should see an overall progress indicator
-    - I should see progress indicators for courses that are started but not complete
-    - I should see suggestions for next courses
+  - I should see a profile link on the main page
+  - I should see a profile link on the nav bar
+  - I should see a list of completed courses sorted by most recent
+  - I should see an overall progress indicator
+  - I should see progress indicators for courses that are started but not complete
+  - I should see suggestions for next courses
 - As a user, I want to edit my profile so I can manage my presence on $APP
-    - I should see an edit profile link on my profile page
-    - I should see a form
-    - I should be able to select a username
-    - I should be able to select a profile image
-    - I should be able to select my locale
-    - I should be able to enter a description of myself
+  - I should see an edit profile link on my profile page
+  - I should see a form
+  - I should be able to select a username
+  - I should be able to select a profile image
+  - I should be able to select my locale
+  - I should be able to enter a description of myself
 - As an experienced user, I want to review courses I've already done so I can retain the knowledge I've gained in the course
-    - I should see a my courses link on the main page
-    - I should see a my courses link on the nav bar
-    - I should see a review link on my profile
-    - I should see a list of courses I've completed
-    - I should be able to re-visit any course I've completed
-    - I should see a list of completed courses sorted by date completed
-    - I should see a list of completed courses sorted by category
+  - I should see a my courses link on the main page
+  - I should see a my courses link on the nav bar
+  - I should see a review link on my profile
+  - I should see a list of courses I've completed
+  - I should be able to re-visit any course I've completed
+  - I should see a list of completed courses sorted by date completed
+  - I should see a list of completed courses sorted by category
 - As an experienced user, I want to do challenges I've already done to gain mastery in the completed course
-    - I should see a series of challenges
-    - I should see challenges that test material I'm about to forget
-    - I should see challenges that test material I've forgotten
-    - I shouldn't see challenges that test material I've recently been tested in
+  - I should see a series of challenges
+  - I should see challenges that test material I'm about to forget
+  - I should see challenges that test material I've forgotten
+  - I shouldn't see challenges that test material I've recently been tested in
 - As an experienced user, I want to know which courses I've done so I can review completed courses
-    - I should see that completed courses are clearly marked on the course list
-    - I should see a review link next to the corresponding course on the course list
+  - I should see that completed courses are clearly marked on the course list
+  - I should see a review link next to the corresponding course on the course list
 - As an experienced user, I want to have a unified stack of challenges so I can gain mastery in course material without having to choose the course
-    - I should see a mastery button on the main page
-    - I should see a mastery button on the nav bar
-    - I should see a series of challenges
-    - I should see challenges that test my weaker areas
-    - I should see challenges that test material I'm about to forget
+  - I should see a mastery button on the main page
+  - I should see a mastery button on the nav bar
+  - I should see a series of challenges
+  - I should see challenges that test my weaker areas
+  - I should see challenges that test material I'm about to forget
 - As a user, I want to manage my account so I can have control over my relationship with $APP
-    - I should see an account management link on the nav bar
-    - I should see a form to change my account details
-    - I should be able to change my email
-    - I should be able to change my password
-    - I should be able to delete my account
+  - I should see an account management link on the nav bar
+  - I should see a form to change my account details
+  - I should be able to change my email
+  - I should be able to change my password
+  - I should be able to delete my account
 - As potential educational partner, I want to learn about $APP so I can evaluate partnering
-    - I should see a partnership link on the main page
-    - I should see contact information
-    - I should see instructions for how to join our partnership program
+  - I should see a partnership link on the main page
+  - I should see contact information
+  - I should see instructions for how to join our partnership program
 - As an educational partner, I want to add course material so I can educate folks
-    - I should see a link to manage my courses on the main page
-    - I should see a form that allows me to upload course material
+  - I should see a link to manage my courses on the main page
+  - I should see a form that allows me to upload course material
 - As an educational partner, I want to manage my course material so I can have control over what material is on $APP
-    - I should see a link to manage my courses on the main page
-    - I should see a list of my courses
-    - I should see a link next to each course that allows me to modify it
-    - I should see a link next to each course that allows me to remove it
+  - I should see a link to manage my courses on the main page
+  - I should see a list of my courses
+  - I should see a link next to each course that allows me to modify it
+  - I should see a link next to each course that allows me to remove it
 - As an admin, I want to manage user accounts so I can control who has access to the site
-    - I should see an admin link on the main page
-    - I should see a link to manage user accounts
-    - I should see a list of users
-    - I should see a manage link next to each user
-    - I should see a form that allows me to change any parameter of a user
+  - I should see an admin link on the main page
+  - I should see a link to manage user accounts
+  - I should see a list of users
+  - I should see a manage link next to each user
+  - I should see a form that allows me to change any parameter of a user
 - As an admin, I want to manage course material so I can control what is being presented to users
-    - I should see an admin link on the main page
-    - I should see a link to manage course material
-    - I should see a list of of courses
-    - I should see a deactivate link next to each course
-    - I should see a message that the course is no longer active
+  - I should see an admin link on the main page
+  - I should see a link to manage course material
+  - I should see a list of of courses
+  - I should see a deactivate link next to each course
+  - I should see a message that the course is no longer active
