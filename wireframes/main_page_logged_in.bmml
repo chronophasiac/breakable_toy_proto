@@ -225,7 +225,7 @@
         <icon>CheckMarkIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="105" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1358" y="692" w="226" h="73" measuredW="139" measuredH="66" zOrder="54" locked="false" isInGroup="-1">
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1358" y="692" w="226" h="73" measuredW="88" measuredH="66" zOrder="54" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Mastery%0AEndless%20Improvement</text>
       </controlProperties>
