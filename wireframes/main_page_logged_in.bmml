@@ -230,5 +230,10 @@
         <text>Mastery%0AEndless%20Improvement</text>
       </controlProperties>
     </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Button" x="1612" y="339" w="145" h="43" measuredW="100" measuredH="27" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Your%20courses</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

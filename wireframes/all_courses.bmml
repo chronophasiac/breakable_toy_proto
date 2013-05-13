@@ -37,7 +37,7 @@
       </controlProperties>
     </control>
     <control controlID="100" controlTypeID="com.balsamiq.mockups::SearchBox" x="1113" y="304" w="393" h="-1" measuredW="120" measuredH="25" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::Title" x="912" y="358" w="-1" h="-1" measuredW="199" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Title" x="887" y="358" w="-1" h="-1" measuredW="199" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Categories</text>
       </controlProperties>
@@ -168,6 +168,11 @@
     <control controlID="173" controlTypeID="com.balsamiq.mockups::Paragraph" x="1506" y="777" w="200" h="29" measuredW="200" measuredH="80" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Course%20details%20go%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::MultilineButton" x="877" y="836" w="226" h="73" measuredW="117" measuredH="66" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>New%20Course%0ACreate%20your%20own%20content</text>
       </controlProperties>
     </control>
   </controls>

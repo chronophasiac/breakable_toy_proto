@@ -97,5 +97,12 @@
         <text>Enrichment%20material%0Agoes%20here</text>
       </controlProperties>
     </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1169" y="893" w="313" h="61" measuredW="147" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Take%20Challenge</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::HRule" x="1104" y="862" w="659" h="-1" measuredW="100" measuredH="10" zOrder="26" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

@@ -56,9 +56,9 @@
         <text>Suggested%20pre-requistes</text>
       </controlProperties>
     </control>
-    <control controlID="172" controlTypeID="com.balsamiq.mockups::SubTitle" x="1278" y="543" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::SubTitle" x="1278" y="543" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Section</text>
+        <text>Lesson</text>
       </controlProperties>
     </control>
     <control controlID="173" controlTypeID="com.balsamiq.mockups::HRule" x="1269" y="589" w="446" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
@@ -72,9 +72,9 @@
         <text>What%20you%20will%20learn</text>
       </controlProperties>
     </control>
-    <control controlID="176" controlTypeID="com.balsamiq.mockups::SubTitle" x="1278" y="631" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::SubTitle" x="1278" y="631" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Section</text>
+        <text>Lesson</text>
       </controlProperties>
     </control>
     <control controlID="177" controlTypeID="com.balsamiq.mockups::HRule" x="1269" y="677" w="446" h="-1" measuredW="100" measuredH="10" zOrder="18" locked="false" isInGroup="-1"/>
@@ -89,9 +89,9 @@
         <text>What%20you%20will%20learn</text>
       </controlProperties>
     </control>
-    <control controlID="180" controlTypeID="com.balsamiq.mockups::SubTitle" x="1278" y="723" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::SubTitle" x="1278" y="723" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Section</text>
+        <text>Lesson</text>
       </controlProperties>
     </control>
     <control controlID="181" controlTypeID="com.balsamiq.mockups::HRule" x="1269" y="769" w="446" h="-1" measuredW="100" measuredH="10" zOrder="22" locked="false" isInGroup="-1"/>

@@ -1,4 +1,3 @@
-
 - As a visitor, I want to understand what the site is offering so I can quickly orient myself
   - I should see a tagline on the main page
   - I should see a brief summary on the main page
