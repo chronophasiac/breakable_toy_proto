@@ -1,0 +1,102 @@
+- As a visitor, I want to understand what the site is offering so I can quickly orient myself
+  - I should see a tagline on the main page
+  - I should see a brief summary on the main page
+- As a visitor, I want to sign up so I can save my progress and receive updates
+  - I should see a sign up link on the index
+  - I should see a form that allows me to sign up
+  - I should be required to provide a unique user name or email
+  - I should be required to provide a strong password
+  - I should be required to confirm my password
+  - I should be signed in after completing the form
+  - I should see a sign up link after I do challenges
+- As a user, I want to log in so I can resume where I left off
+  - I should see a log in link on the main page
+  - I should see a log in link on the nav bar
+  - I should see a form that allows me to log in
+  - I should be required to enter my email address or username
+  - I should be required to enter a password
+  - I should be given the option of remembering my login state
+  - I should see my login state in the nav bar
+  - I shouldn't see the login link on the main page or nav bar
+- As a user, I want to log out so I don't accidentally share my account
+  - I should see a log out link on the nav bar
+  - I should see a message indicating I've been logged out
+  - I should see links to log in on the nav bar and main page
+- As a user, I want to see lists of books, videos, and other reference material when I select a lesson so I can start learning the lesson material
+  - I should see links to books, etc
+  - I should see instructions about what to do when I follow the link
+- As a user, I want to provide feedback on lessons so I can let others know if I found the material useful
+  - I should be able to like/dislike any individual assignment in a lesson
+  - I should be able to rate a lesson as a whole
+- As a user, I want to do challenges so I can test my knowledge of the material
+  - I should see a button that begins the challenges
+  - I should see a challenge
+  - I should see instructions on how to complete the challenge
+- As a user, I want to provide feedback on challenges so I can get more helpful challenges
+  - I should be able to like/dislike any individual challenge card
+  - I should be able to provide a review of the challenge as a whole
+- As a user, I want to provide answers to the challenges so I can verify if I know the answer to the challenge
+  - I should be able to interact with the challenge to enter an answer
+  - I should be able to submit my answer
+  - I should be rewarded if I provide a correct answer
+  - I shouldn't be rewarded if I provide an incorrect answer
+  - I should see a button that proceeds to the next challenge
+- As a user, I want to see a series of challenges so I'm tested in all the material
+  - I should see a new challenge
+  - I should see a reference to what material teaches the challenge subject
+- As a user, I want to see different challenges so I don't get bored
+  - I should see a different challenge than any challenge I've seen in the last 15 minutes
+- As a user, I want to see more challenges that are related to concepts or field that I'm having difficulty in so I can learn all concepts in the lesson
+  - I should see a challenge that tests the same concept as a previous challenge that I've failed
+  - I shouldn't see a challenge that tests concepts that I've succeeded on
+- As a user, I want feedback on how I'm doing so I can determine how much more I should study
+  - I should see a message that informs me if I've been rewarded or penalized
+  - I should see a running tally of my score in the lesson
+- As a user, I want to know when the lesson is over so I can choose to continue to another lesson or leave the session
+  - I should see a message that the lesson is over
+  - I should see my score for the lesson
+  - I should have the option to repeat the lesson
+  - I should have the option to go to the next lesson
+  - I should have the option to exit to the main page
+- As a user, I want to view my profile so I can get info on my progress
+  - I should see a profile link on the main page
+  - I should see a profile link on the nav bar
+  - I should see a list of completed lessons sorted by most recent
+  - I should see an overall progress indicator
+  - I should see progress indicators for lessons that are started but not complete
+  - I should see suggestions for next lessons
+- As a user, I want to edit my profile so I can manage my presence on $APP
+  - I should see an edit profile link on my profile page
+  - I should see a form
+  - I should be able to select a username
+  - I should be able to select a profile image
+  - I should be able to select my locale
+  - I should be able to enter a description of myself
+- As an experienced user, I want to review lessons I've already done so I can retain the knowledge I've gained in the lesson
+  - I should see a my lessons link on the main page
+  - I should see a my lessons link on the nav bar
+  - I should see a review link on my profile
+  - I should see a list of lessons I've completed
+  - I should be able to re-visit any lesson I've completed
+  - I should see a list of completed lessons sorted by date completed
+  - I should see a list of completed lessons sorted by category
+- As an experienced user, I want to do challenges I've already done to gain mastery in the completed lesson
+  - I should see a series of challenges
+  - I should see challenges that test material I'm about to forget
+  - I should see challenges that test material I've forgotten
+  - I shouldn't see challenges that test material I've recently been tested in
+- As an experienced user, I want to know which lessons I've done so I can review completed lessons
+  - I should see that completed lessons are clearly marked on the lesson list
+  - I should see a review link next to the corresponding lesson on the lesson list
+- As an experienced user, I want to have a unified stack of challenges so I can gain mastery in lesson material without having to choose the lesson
+  - I should see a mastery button on the main page
+  - I should see a mastery button on the nav bar
+  - I should see a series of challenges
+  - I should see challenges that test my weaker areas
+  - I should see challenges that test material I'm about to forget
+- As a user, I want to manage my account so I can have control over my relationship with $APP
+  - I should see an account management link on the nav bar
+  - I should see a form to change my account details
+  - I should be able to change my email
+  - I should be able to change my password
+  - I should be able to delete my account
