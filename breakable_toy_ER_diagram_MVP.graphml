@@ -242,7 +242,7 @@ card_submission_id<y:LabelModel>
           <y:Geometry height="81.0" width="116.0" x="117.0" y="359.5"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="112.873046875" x="1.5634765625" y="4.0">LessonAssignment</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="51.4140625" x="32.29296875" y="4.0">Syllabus</y:NodeLabel>
           <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="46.3984375" modelName="custom" textColor="#000000" visible="true" width="88.10546875" x="2.0" y="30.1328125">lesson_id
 assignment_id
 position<y:LabelModel>
@@ -324,7 +324,6 @@ helpful<y:LabelModel>
       </data>
     </node>
     <node id="n14">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="90.0" width="95.0" x="377.5" y="-20.0"/>
@@ -523,7 +522,6 @@ card_id<y:LabelModel>
       </data>
     </edge>
     <edge id="e17" source="n14" target="n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="45.0" tx="0.0" ty="-41.6877172653534"/>
@@ -534,7 +532,6 @@ card_id<y:LabelModel>
       </data>
     </edge>
     <edge id="e18" source="n2" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="-42.625" tx="0.0" ty="35.1877172653534"/>
