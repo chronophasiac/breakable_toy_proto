@@ -1,17 +1,16 @@
-- As a visitor, I want to understand what the site is offering so I can quickly orient myself
+- As a visitor, I want to understand what the site is offering so I can decide whether to use the app
   - I should see a tagline on the main page
   - I should see a brief summary on the main page
 - As a visitor, I want to sign up so I can save my progress and receive updates
   - I should see a sign up link on the index
   - I should see a form that allows me to sign up
-  - I should be required to provide a unique user name or email
+  - I should be required to provide a unique email
   - I should be required to provide a strong password
   - I should be required to confirm my password
   - I should be signed in after completing the form
   - I should see a sign up link after I do challenges
 - As a user, I want to log in so I can resume where I left off
   - I should see a log in link on the main page
-  - I should see a log in link on the nav bar
   - I should see a form that allows me to log in
   - I should be required to enter my email address or username
   - I should be required to enter a password
